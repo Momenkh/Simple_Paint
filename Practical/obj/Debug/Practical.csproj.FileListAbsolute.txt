@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\Practical\Practical\bin\Debug\Practical.exe.config
+C:\Users\ADMIN\source\repos\Practical\Practical\bin\Debug\Practical.exe
+C:\Users\ADMIN\source\repos\Practical\Practical\bin\Debug\Practical.pdb
+C:\Users\ADMIN\source\repos\Practical\Practical\obj\Debug\Practical.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Practical\Practical\obj\Debug\Practical.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Practical\Practical\obj\Debug\Practical.Form1.resources
+C:\Users\ADMIN\source\repos\Practical\Practical\obj\Debug\Practical.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Practical\Practical\obj\Debug\Practical.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Practical\Practical\obj\Debug\Practical.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Practical\Practical\obj\Debug\Practical.exe
+C:\Users\ADMIN\source\repos\Practical\Practical\obj\Debug\Practical.pdb
+C:\Users\ADMIN\source\repos\Practical\Practical\obj\Debug\Practical.Form2.resources
